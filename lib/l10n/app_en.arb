@@ -1,0 +1,1096 @@
+{
+  "@@locale": "en",
+  "appTitle": "inStock",
+  "@appTitle": {
+    "description": "The application title shown in the task switcher and app bar."
+  },
+  "homeWelcome": "Welcome to inStock",
+  "@homeWelcome": {
+    "description": "Welcome message on the home screen when content is ready."
+  },
+  "homeLoading": "Loading…",
+  "@homeLoading": {
+    "description": "Message shown on the home screen while content is loading."
+  },
+  "homeQuote0Text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+  "@homeQuote0Text": {
+    "description": "Inspirational quote 0 shown on the home screen."
+  },
+  "homeQuote1Text": "The way to get started is to quit talking and begin doing.",
+  "@homeQuote1Text": {
+    "description": "Inspirational quote 1 shown on the home screen."
+  },
+  "homeQuote2Text": "Well done is better than well said.",
+  "@homeQuote2Text": {
+    "description": "Inspirational quote 2 shown on the home screen."
+  },
+  "homeQuote3Text": "It always seems impossible until it's done.",
+  "@homeQuote3Text": {
+    "description": "Inspirational quote 3 shown on the home screen."
+  },
+  "homeQuote4Text": "Small deeds done are better than great deeds planned.",
+  "@homeQuote4Text": {
+    "description": "Inspirational quote 4 shown on the home screen."
+  },
+  "homeQuote5Text": "The secret of getting ahead is getting started.",
+  "@homeQuote5Text": {
+    "description": "Inspirational quote 5 shown on the home screen."
+  },
+  "homeQuote6Text": "You don't have to be great to start, but you have to start to be great.",
+  "@homeQuote6Text": {
+    "description": "Inspirational quote 6 shown on the home screen."
+  },
+  "homeQuote7Text": "It does not matter how slowly you go as long as you do not stop.",
+  "@homeQuote7Text": {
+    "description": "Inspirational quote 7 shown on the home screen."
+  },
+  "homeQuote8Text": "Fall seven times, stand up eight.",
+  "@homeQuote8Text": {
+    "description": "Inspirational quote 8 shown on the home screen."
+  },
+  "homeQuote9Text": "The only way out is through.",
+  "@homeQuote9Text": {
+    "description": "Inspirational quote 9 shown on the home screen."
+  },
+  "homeQuote10Text": "When you reach the end of your rope, tie a knot in it and hang on.",
+  "@homeQuote10Text": {
+    "description": "Inspirational quote 10 shown on the home screen."
+  },
+  "homeQuote11Text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+  "@homeQuote11Text": {
+    "description": "Inspirational quote 11 shown on the home screen."
+  },
+  "homeQuote12Text": "I have not failed. I've just found 10,000 ways that won't work.",
+  "@homeQuote12Text": {
+    "description": "Inspirational quote 12 shown on the home screen."
+  },
+  "homeQuote13Text": "It's not whether you get knocked down, it's whether you get up.",
+  "@homeQuote13Text": {
+    "description": "Inspirational quote 13 shown on the home screen."
+  },
+  "homeQuote14Text": "Perseverance is not a long race; it is many short races one after the other.",
+  "@homeQuote14Text": {
+    "description": "Inspirational quote 14 shown on the home screen."
+  },
+  "homeQuote15Text": "Rock bottom became the solid foundation on which I rebuilt my life.",
+  "@homeQuote15Text": {
+    "description": "Inspirational quote 15 shown on the home screen."
+  },
+  "homeQuote16Text": "A river cuts through rock, not because of its power, but because of its persistence.",
+  "@homeQuote16Text": {
+    "description": "Inspirational quote 16 shown on the home screen."
+  },
+  "homeQuote17Text": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.",
+  "@homeQuote17Text": {
+    "description": "Inspirational quote 17 shown on the home screen."
+  },
+  "homeQuote18Text": "Courage is not the absence of fear, but the triumph over it.",
+  "@homeQuote18Text": {
+    "description": "Inspirational quote 18 shown on the home screen."
+  },
+  "homeQuote19Text": "Do one thing every day that scares you.",
+  "@homeQuote19Text": {
+    "description": "Inspirational quote 19 shown on the home screen."
+  },
+  "homeQuote20Text": "It takes courage to grow up and become who you really are.",
+  "@homeQuote20Text": {
+    "description": "Inspirational quote 20 shown on the home screen."
+  },
+  "homeQuote21Text": "Life shrinks or expands in proportion to one's courage.",
+  "@homeQuote21Text": {
+    "description": "Inspirational quote 21 shown on the home screen."
+  },
+  "homeQuote22Text": "You cannot swim for new horizons until you have courage to lose sight of the shore.",
+  "@homeQuote22Text": {
+    "description": "Inspirational quote 22 shown on the home screen."
+  },
+  "homeQuote23Text": "Whether you think you can or you think you can't, you're right.",
+  "@homeQuote23Text": {
+    "description": "Inspirational quote 23 shown on the home screen."
+  },
+  "homeQuote24Text": "Twenty years from now you will be more disappointed by the things you didn't do.",
+  "@homeQuote24Text": {
+    "description": "Inspirational quote 24 shown on the home screen."
+  },
+  "homeQuote25Text": "The future belongs to those who believe in the beauty of their dreams.",
+  "@homeQuote25Text": {
+    "description": "Inspirational quote 25 shown on the home screen."
+  },
+  "homeQuote26Text": "All our dreams can come true if we have the courage to pursue them.",
+  "@homeQuote26Text": {
+    "description": "Inspirational quote 26 shown on the home screen."
+  },
+  "homeQuote27Text": "Shoot for the moon. Even if you miss, you'll land among the stars.",
+  "@homeQuote27Text": {
+    "description": "Inspirational quote 27 shown on the home screen."
+  },
+  "homeQuote28Text": "The best way to predict the future is to create it.",
+  "@homeQuote28Text": {
+    "description": "Inspirational quote 28 shown on the home screen."
+  },
+  "homeQuote29Text": "Don't watch the clock; do what it does. Keep going.",
+  "@homeQuote29Text": {
+    "description": "Inspirational quote 29 shown on the home screen."
+  },
+  "homeQuote30Text": "If you can dream it, you can do it.",
+  "@homeQuote30Text": {
+    "description": "Inspirational quote 30 shown on the home screen."
+  },
+  "homeQuote31Text": "The bigger the dream, the more important the team.",
+  "@homeQuote31Text": {
+    "description": "Inspirational quote 31 shown on the home screen."
+  },
+  "homeQuote32Text": "Be the change that you wish to see in the world.",
+  "@homeQuote32Text": {
+    "description": "Inspirational quote 32 shown on the home screen."
+  },
+  "homeQuote33Text": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+  "@homeQuote33Text": {
+    "description": "Inspirational quote 33 shown on the home screen."
+  },
+  "homeQuote34Text": "Everything you've ever wanted is on the other side of fear.",
+  "@homeQuote34Text": {
+    "description": "Inspirational quote 34 shown on the home screen."
+  },
+  "homeQuote35Text": "In the middle of difficulty lies opportunity.",
+  "@homeQuote35Text": {
+    "description": "Inspirational quote 35 shown on the home screen."
+  },
+  "homeQuote36Text": "Change your thoughts and you change your world.",
+  "@homeQuote36Text": {
+    "description": "Inspirational quote 36 shown on the home screen."
+  },
+  "homeQuote37Text": "Believe you can and you're halfway there.",
+  "@homeQuote37Text": {
+    "description": "Inspirational quote 37 shown on the home screen."
+  },
+  "homeQuote38Text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+  "@homeQuote38Text": {
+    "description": "Inspirational quote 38 shown on the home screen."
+  },
+  "homeQuote39Text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+  "@homeQuote39Text": {
+    "description": "Inspirational quote 39 shown on the home screen."
+  },
+  "homeQuote40Text": "Knowing yourself is the beginning of all wisdom.",
+  "@homeQuote40Text": {
+    "description": "Inspirational quote 40 shown on the home screen."
+  },
+  "homeQuote41Text": "The only person you are destined to become is the person you decide to be.",
+  "@homeQuote41Text": {
+    "description": "Inspirational quote 41 shown on the home screen."
+  },
+  "homeQuote42Text": "Trust yourself. You know more than you think you do.",
+  "@homeQuote42Text": {
+    "description": "Inspirational quote 42 shown on the home screen."
+  },
+  "homeQuote43Text": "The way to get started is to quit talking and begin doing.",
+  "@homeQuote43Text": {
+    "description": "Inspirational quote 43 shown on the home screen."
+  },
+  "homeQuote44Text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+  "@homeQuote44Text": {
+    "description": "Inspirational quote 44 shown on the home screen."
+  },
+  "homeQuote45Text": "Nothing will work unless you do.",
+  "@homeQuote45Text": {
+    "description": "Inspirational quote 45 shown on the home screen."
+  },
+  "homeQuote46Text": "Well done is better than well said.",
+  "@homeQuote46Text": {
+    "description": "Inspirational quote 46 shown on the home screen."
+  },
+  "homeQuote47Text": "Action is the foundational key to all success.",
+  "@homeQuote47Text": {
+    "description": "Inspirational quote 47 shown on the home screen."
+  },
+  "homeQuote48Text": "There are no shortcuts to any place worth going.",
+  "@homeQuote48Text": {
+    "description": "Inspirational quote 48 shown on the home screen."
+  },
+  "homeQuote49Text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+  "@homeQuote49Text": {
+    "description": "Inspirational quote 49 shown on the home screen."
+  },
+  "homeQuote50Text": "No act of kindness, no matter how small, is ever wasted.",
+  "@homeQuote50Text": {
+    "description": "Inspirational quote 50 shown on the home screen."
+  },
+  "homeQuote51Text": "Carry out a random act of kindness, with no expectation of reward.",
+  "@homeQuote51Text": {
+    "description": "Inspirational quote 51 shown on the home screen."
+  },
+  "homeQuote52Text": "We rise by lifting others.",
+  "@homeQuote52Text": {
+    "description": "Inspirational quote 52 shown on the home screen."
+  },
+  "homeQuote53Text": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+  "@homeQuote53Text": {
+    "description": "Inspirational quote 53 shown on the home screen."
+  },
+  "homeQuote54Text": "Unless someone like you cares a whole awful lot, nothing is going to get better.",
+  "@homeQuote54Text": {
+    "description": "Inspirational quote 54 shown on the home screen."
+  },
+  "homeQuote55Text": "The more that you read, the more things you will know.",
+  "@homeQuote55Text": {
+    "description": "Inspirational quote 55 shown on the home screen."
+  },
+  "homeQuote56Text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+  "@homeQuote56Text": {
+    "description": "Inspirational quote 56 shown on the home screen."
+  },
+  "homeQuote57Text": "The beautiful thing about learning is that no one can take it away from you.",
+  "@homeQuote57Text": {
+    "description": "Inspirational quote 57 shown on the home screen."
+  },
+  "homeQuote58Text": "An investment in knowledge pays the best interest.",
+  "@homeQuote58Text": {
+    "description": "Inspirational quote 58 shown on the home screen."
+  },
+  "homeQuote59Text": "Wisdom begins in wonder.",
+  "@homeQuote59Text": {
+    "description": "Inspirational quote 59 shown on the home screen."
+  },
+  "homeQuote60Text": "The only true wisdom is in knowing you know nothing.",
+  "@homeQuote60Text": {
+    "description": "Inspirational quote 60 shown on the home screen."
+  },
+  "homeQuote61Text": "The two most important days in your life are the day you are born and the day you find out why.",
+  "@homeQuote61Text": {
+    "description": "Inspirational quote 61 shown on the home screen."
+  },
+  "homeQuote62Text": "Yesterday is history, tomorrow is a mystery, today is a gift.",
+  "@homeQuote62Text": {
+    "description": "Inspirational quote 62 shown on the home screen."
+  },
+  "homeQuote63Text": "Time you enjoy wasting is not wasted time.",
+  "@homeQuote63Text": {
+    "description": "Inspirational quote 63 shown on the home screen."
+  },
+  "homeQuote64Text": "Lost time is never found again.",
+  "@homeQuote64Text": {
+    "description": "Inspirational quote 64 shown on the home screen."
+  },
+  "homeQuote65Text": "The way I see it, if you want the rainbow, you gotta put up with the rain.",
+  "@homeQuote65Text": {
+    "description": "Inspirational quote 65 shown on the home screen."
+  },
+  "homeQuote66Text": "Keep your face always toward the sunshine, and shadows will fall behind you.",
+  "@homeQuote66Text": {
+    "description": "Inspirational quote 66 shown on the home screen."
+  },
+  "homeQuote67Text": "Attitude is a little thing that makes a big difference.",
+  "@homeQuote67Text": {
+    "description": "Inspirational quote 67 shown on the home screen."
+  },
+  "homeQuote68Text": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+  "@homeQuote68Text": {
+    "description": "Inspirational quote 68 shown on the home screen."
+  },
+  "homeQuote69Text": "Once you replace negative thoughts with positive ones, you'll start having positive results.",
+  "@homeQuote69Text": {
+    "description": "Inspirational quote 69 shown on the home screen."
+  },
+  "homeQuote70Text": "Positive anything is better than negative nothing.",
+  "@homeQuote70Text": {
+    "description": "Inspirational quote 70 shown on the home screen."
+  },
+  "homeQuote71Text": "Where there is love there is life.",
+  "@homeQuote71Text": {
+    "description": "Inspirational quote 71 shown on the home screen."
+  },
+  "homeQuote72Text": "The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart.",
+  "@homeQuote72Text": {
+    "description": "Inspirational quote 72 shown on the home screen."
+  },
+  "homeQuote73Text": "Love yourself first and everything else falls into line.",
+  "@homeQuote73Text": {
+    "description": "Inspirational quote 73 shown on the home screen."
+  },
+  "homeQuote74Text": "We accept the love we think we deserve.",
+  "@homeQuote74Text": {
+    "description": "Inspirational quote 74 shown on the home screen."
+  },
+  "homeQuote75Text": "That which does not kill us makes us stronger.",
+  "@homeQuote75Text": {
+    "description": "Inspirational quote 75 shown on the home screen."
+  },
+  "homeQuote76Text": "Out of difficulties grow miracles.",
+  "@homeQuote76Text": {
+    "description": "Inspirational quote 76 shown on the home screen."
+  },
+  "homeQuote77Text": "The gem cannot be polished without friction, nor man perfected without trials.",
+  "@homeQuote77Text": {
+    "description": "Inspirational quote 77 shown on the home screen."
+  },
+  "homeQuote78Text": "Difficult roads often lead to beautiful destinations.",
+  "@homeQuote78Text": {
+    "description": "Inspirational quote 78 shown on the home screen."
+  },
+  "homeQuote79Text": "Smooth seas do not make skillful sailors.",
+  "@homeQuote79Text": {
+    "description": "Inspirational quote 79 shown on the home screen."
+  },
+  "homeQuote80Text": "Always be a first-rate version of yourself, instead of a second-rate version of somebody else.",
+  "@homeQuote80Text": {
+    "description": "Inspirational quote 80 shown on the home screen."
+  },
+  "homeQuote81Text": "Why fit in when you were born to stand out?",
+  "@homeQuote81Text": {
+    "description": "Inspirational quote 81 shown on the home screen."
+  },
+  "homeQuote82Text": "You were born to be real, not to be perfect.",
+  "@homeQuote82Text": {
+    "description": "Inspirational quote 82 shown on the home screen."
+  },
+  "homeQuote83Text": "To live is the rarest thing in the world. Most people exist, that is all.",
+  "@homeQuote83Text": {
+    "description": "Inspirational quote 83 shown on the home screen."
+  },
+  "homeQuote84Text": "Strength does not come from winning. Your struggles develop your strengths.",
+  "@homeQuote84Text": {
+    "description": "Inspirational quote 84 shown on the home screen."
+  },
+  "homeQuote85Text": "Champions keep playing until they get it right.",
+  "@homeQuote85Text": {
+    "description": "Inspirational quote 85 shown on the home screen."
+  },
+  "homeQuote86Text": "You are never too old to set another goal or to dream a new dream.",
+  "@homeQuote86Text": {
+    "description": "Inspirational quote 86 shown on the home screen."
+  },
+  "homeQuote87Text": "Obstacles are those frightful things you see when you take your eyes off your goal.",
+  "@homeQuote87Text": {
+    "description": "Inspirational quote 87 shown on the home screen."
+  },
+  "homeQuote88Text": "It always seems impossible until it's done.",
+  "@homeQuote88Text": {
+    "description": "Inspirational quote 88 shown on the home screen."
+  },
+  "homeQuote89Text": "Peace begins with a smile.",
+  "@homeQuote89Text": {
+    "description": "Inspirational quote 89 shown on the home screen."
+  },
+  "homeQuote90Text": "Freedom is nothing but a chance to be better.",
+  "@homeQuote90Text": {
+    "description": "Inspirational quote 90 shown on the home screen."
+  },
+  "homeQuote91Text": "The truth will set you free, but first it will piss you off.",
+  "@homeQuote91Text": {
+    "description": "Inspirational quote 91 shown on the home screen."
+  },
+  "homeQuote92Text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate.",
+  "@homeQuote92Text": {
+    "description": "Inspirational quote 92 shown on the home screen."
+  },
+  "homeQuote93Text": "What we do for ourselves dies with us. What we do for others remains and is immortal.",
+  "@homeQuote93Text": {
+    "description": "Inspirational quote 93 shown on the home screen."
+  },
+  "homeQuote94Text": "Try not to become a man of success, but rather try to become a man of value.",
+  "@homeQuote94Text": {
+    "description": "Inspirational quote 94 shown on the home screen."
+  },
+  "homeQuote95Text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+  "@homeQuote95Text": {
+    "description": "Inspirational quote 95 shown on the home screen."
+  },
+  "homeQuote96Text": "Imagination is more important than knowledge.",
+  "@homeQuote96Text": {
+    "description": "Inspirational quote 96 shown on the home screen."
+  },
+  "homeQuote97Text": "Creativity takes courage.",
+  "@homeQuote97Text": {
+    "description": "Inspirational quote 97 shown on the home screen."
+  },
+  "homeQuote98Text": "Every artist was first an amateur.",
+  "@homeQuote98Text": {
+    "description": "Inspirational quote 98 shown on the home screen."
+  },
+  "homeQuote99Text": "You can't use up creativity. The more you use, the more you have.",
+  "@homeQuote99Text": {
+    "description": "Inspirational quote 99 shown on the home screen."
+  },
+  "homeQuote100Text": "Simplicity is the ultimate sophistication.",
+  "@homeQuote100Text": {
+    "description": "Inspirational quote 100 shown on the home screen."
+  },
+  "homeQuote101Text": "The present moment is the only time over which we have dominion.",
+  "@homeQuote101Text": {
+    "description": "Inspirational quote 101 shown on the home screen."
+  },
+  "homeQuote102Text": "Realize deeply that the present moment is all you ever have.",
+  "@homeQuote102Text": {
+    "description": "Inspirational quote 102 shown on the home screen."
+  },
+  "homeQuote103Text": "Hope is being able to see that there is light despite all of the darkness.",
+  "@homeQuote103Text": {
+    "description": "Inspirational quote 103 shown on the home screen."
+  },
+  "homeQuote104Text": "Once you choose hope, anything's possible.",
+  "@homeQuote104Text": {
+    "description": "Inspirational quote 104 shown on the home screen."
+  },
+  "homeQuote105Text": "We must accept finite disappointment, but never lose infinite hope.",
+  "@homeQuote105Text": {
+    "description": "Inspirational quote 105 shown on the home screen."
+  },
+  "homeQuote106Text": "Where there's life, there's hope.",
+  "@homeQuote106Text": {
+    "description": "Inspirational quote 106 shown on the home screen."
+  },
+  "homeShoppingListTitle": "Shopping list",
+  "@homeShoppingListTitle": {
+    "description": "Title of the home-screen shopping list for missing materials."
+  },
+  "homeShoppingListEmpty": "Nothing missing — all materials are in stock.",
+  "@homeShoppingListEmpty": {
+    "description": "Empty-state message when no materials are missing on the home shopping list."
+  },
+  "homeShoppingInStockNeeded": "{inStock} in Stock with {needed} more needed",
+  "@homeShoppingInStockNeeded": {
+    "description": "On-hand stock and shortage amount for a missing material on the shopping list.",
+    "placeholders": {
+      "inStock": {
+        "type": "String"
+      },
+      "needed": {
+        "type": "String"
+      }
+    }
+  },
+  "homeShoppingPurchaseTooltip": "Mark as purchased",
+  "@homeShoppingPurchaseTooltip": {
+    "description": "Tooltip for the shopping-bag button that records a purchase."
+  },
+  "homeShoppingPurchaseTitle": "Bought {title}?",
+  "@homeShoppingPurchaseTitle": {
+    "description": "Title of the dialog asking how much of a material was bought.",
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "homeShoppingPurchaseQuantity": "Quantity bought",
+  "@homeShoppingPurchaseQuantity": {
+    "description": "Label for the quantity field in the purchase dialog."
+  },
+  "homeShoppingPurchaseConfirm": "Add to stock",
+  "@homeShoppingPurchaseConfirm": {
+    "description": "Confirm button that adds the purchased quantity to material stock."
+  },
+  "homeShoppingPurchaseFailure": "Could not update stock.",
+  "@homeShoppingPurchaseFailure": {
+    "description": "SnackBar message when adding purchased stock fails."
+  },
+  "homeDatabaseErrorTitle": "Database error",
+  "@homeDatabaseErrorTitle": {
+    "description": "Title for the database open failure recovery dialog."
+  },
+  "homeDatabaseErrorMessage": "A database error occurred. You can retry opening the database, or wipe the local database and start fresh.",
+  "@homeDatabaseErrorMessage": {
+    "description": "Message explaining database open failure recovery options."
+  },
+  "homeDatabaseRetry": "Retry database",
+  "@homeDatabaseRetry": {
+    "description": "Button that retries opening the local database."
+  },
+  "homeDatabaseWipe": "Wipe database",
+  "@homeDatabaseWipe": {
+    "description": "Button that starts wiping and recreating the local database."
+  },
+  "homeDatabaseWipeConfirmTitle": "Wipe database?",
+  "@homeDatabaseWipeConfirmTitle": {
+    "description": "Title for the wipe database confirmation dialog."
+  },
+  "homeDatabaseWipeConfirmMessage": "This deletes all local inventory data and cannot be undone.",
+  "@homeDatabaseWipeConfirmMessage": {
+    "description": "Message for the wipe database confirmation dialog."
+  },
+  "homeDatabaseWipeConfirmAction": "Wipe database",
+  "@homeDatabaseWipeConfirmAction": {
+    "description": "Confirm button that deletes and recreates the database."
+  },
+  "homeDatabaseCancel": "Cancel",
+  "@homeDatabaseCancel": {
+    "description": "Cancel button on the wipe database confirmation dialog."
+  },
+  "navHome": "Home",
+  "@navHome": {
+    "description": "Bottom navigation label for the home tab."
+  },
+  "navInventory": "Inventory",
+  "@navInventory": {
+    "description": "Bottom navigation label for the inventory tab."
+  },
+  "navProducts": "Products",
+  "@navProducts": {
+    "description": "Bottom navigation label for the products tab."
+  },
+  "navWorkshop": "Workshop",
+  "@navWorkshop": {
+    "description": "Bottom navigation label for the workshop tab."
+  },
+  "navSettings": "Settings",
+  "@navSettings": {
+    "description": "Bottom navigation label for the settings tab."
+  },
+  "inventoryTitle": "Inventory",
+  "@inventoryTitle": {
+    "description": "Screen title for the inventory tab."
+  },
+  "inventoryPlaceholder": "Materials and quantities will appear here.",
+  "@inventoryPlaceholder": {
+    "description": "Placeholder text on the inventory tab."
+  },
+  "inventorySearchHint": "Search materials…",
+  "@inventorySearchHint": {
+    "description": "Hint text for the inventory search field."
+  },
+  "inventoryEmptyTitle": "No materials yet",
+  "@inventoryEmptyTitle": {
+    "description": "Title shown when the inventory list is empty."
+  },
+  "inventoryEmptySubtitle": "Add your first material to start tracking stock.",
+  "@inventoryEmptySubtitle": {
+    "description": "Subtitle shown when the inventory list is empty."
+  },
+  "inventoryNoResultsTitle": "No matches",
+  "@inventoryNoResultsTitle": {
+    "description": "Title shown when search returns no materials."
+  },
+  "inventoryNoResultsSubtitle": "Try a different search term.",
+  "@inventoryNoResultsSubtitle": {
+    "description": "Subtitle shown when search returns no materials."
+  },
+  "inventoryAddMaterial": "Add material",
+  "@inventoryAddMaterial": {
+    "description": "Label for adding a new material."
+  },
+  "inventoryEditMaterial": "Edit material",
+  "@inventoryEditMaterial": {
+    "description": "Title for the material edit sheet."
+  },
+  "inventoryMaterialName": "Name",
+  "@inventoryMaterialName": {
+    "description": "Label for the material name field."
+  },
+  "inventoryMaterialDescription": "Description",
+  "@inventoryMaterialDescription": {
+    "description": "Label for the material description field."
+  },
+  "inventoryMaterialQuantity": "Quantity on hand",
+  "@inventoryMaterialQuantity": {
+    "description": "Label for the material quantity field."
+  },
+  "inventoryOnHand": "{quantity} on hand",
+  "@inventoryOnHand": {
+    "description": "Chip label for on-hand quantity on a material card.",
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "inventoryAvailable": "{quantity} available",
+  "@inventoryAvailable": {
+    "description": "Chip label for available quantity on a material card.",
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "inventoryAvailableInStock": "{available} available / {inStock} in Stock",
+  "@inventoryAvailableInStock": {
+    "description": "Right-side stock label on a material card: available vs on-hand quantity.",
+    "placeholders": {
+      "available": {
+        "type": "String"
+      },
+      "inStock": {
+        "type": "String"
+      }
+    }
+  },
+  "inventoryReserved": "{quantity} reserved",
+  "@inventoryReserved": {
+    "description": "Chip label when stock is reserved on the workbench.",
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "inventoryLowStock": "Low stock",
+  "@inventoryLowStock": {
+    "description": "Chip label when available stock is depleted."
+  },
+  "inventorySave": "Save",
+  "@inventorySave": {
+    "description": "Save button on the material form."
+  },
+  "inventoryCancel": "Cancel",
+  "@inventoryCancel": {
+    "description": "Cancel button on dialogs."
+  },
+  "inventoryDelete": "Delete",
+  "@inventoryDelete": {
+    "description": "Delete button on the material form."
+  },
+  "inventoryDeleteConfirmTitle": "Delete material?",
+  "@inventoryDeleteConfirmTitle": {
+    "description": "Title for the delete material confirmation dialog."
+  },
+  "inventoryDeleteConfirmMessage": "Remove \"{name}\" from your inventory? This also removes it from product recipes. This cannot be undone.",
+  "@inventoryDeleteConfirmMessage": {
+    "description": "Message for the delete material confirmation dialog.",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inventoryDeleteInUse": "Cannot delete a material reserved on the workbench.",
+  "@inventoryDeleteInUse": {
+    "description": "Snack bar when deleting a material fails because it is reserved on a workbench build."
+  },
+  "inventoryLoadFailure": "Could not load inventory.",
+  "@inventoryLoadFailure": {
+    "description": "Snack bar when loading inventory fails."
+  },
+  "inventoryActionFailure": "Could not save changes.",
+  "@inventoryActionFailure": {
+    "description": "Snack bar when saving or deleting a material fails."
+  },
+  "inventoryNameRequired": "Name is required",
+  "@inventoryNameRequired": {
+    "description": "Validation message when material name is empty."
+  },
+  "inventoryQuantityRequired": "Quantity is required",
+  "@inventoryQuantityRequired": {
+    "description": "Validation message when material quantity is empty."
+  },
+  "inventoryQuantityInvalid": "Enter a valid quantity",
+  "@inventoryQuantityInvalid": {
+    "description": "Validation message when material quantity is invalid."
+  },
+  "inventoryEditImage": "Change image",
+  "@inventoryEditImage": {
+    "description": "Tooltip for the button that picks a material image."
+  },
+  "inventoryImagePickFailure": "Could not open the photo library.",
+  "@inventoryImagePickFailure": {
+    "description": "Snack bar when the material image picker cannot be opened."
+  },
+  "productsTitle": "Products",
+  "@productsTitle": {
+    "description": "Screen title for the products tab."
+  },
+  "productsSearchHint": "Search products…",
+  "@productsSearchHint": {
+    "description": "Hint text for the products search field."
+  },
+  "productsEmptyTitle": "No products yet",
+  "@productsEmptyTitle": {
+    "description": "Title shown when the products list is empty."
+  },
+  "productsEmptySubtitle": "Add your first preset to define a recipe.",
+  "@productsEmptySubtitle": {
+    "description": "Subtitle shown when the products list is empty."
+  },
+  "productsNoResultsTitle": "No matches",
+  "@productsNoResultsTitle": {
+    "description": "Title shown when search returns no products."
+  },
+  "productsNoResultsSubtitle": "Try a different search term.",
+  "@productsNoResultsSubtitle": {
+    "description": "Subtitle shown when search returns no products."
+  },
+  "productsAddPreset": "Add product",
+  "@productsAddPreset": {
+    "description": "Label for adding a new preset."
+  },
+  "productsNewPresetDefaultName": "New product",
+  "@productsNewPresetDefaultName": {
+    "description": "Default name assigned when creating a preset from the add button."
+  },
+  "productsCreateFailure": "Could not create product.",
+  "@productsCreateFailure": {
+    "description": "Snack bar when creating a new preset fails."
+  },
+  "productsEditPreset": "Edit product",
+  "@productsEditPreset": {
+    "description": "Title for the preset edit sheet."
+  },
+  "productsPresetName": "Name",
+  "@productsPresetName": {
+    "description": "Label for the preset name field."
+  },
+  "productsPresetDescription": "Description",
+  "@productsPresetDescription": {
+    "description": "Label for the preset description field."
+  },
+  "productsMaterialCountLabel": "materials",
+  "@productsMaterialCountLabel": {
+    "description": "Label below the material count on a product card."
+  },
+  "productsLoadFailure": "Could not load products.",
+  "@productsLoadFailure": {
+    "description": "Snack bar when loading products fails."
+  },
+  "productsActionFailure": "Could not save changes.",
+  "@productsActionFailure": {
+    "description": "Snack bar when saving or deleting a preset fails."
+  },
+  "productsNameRequired": "Name is required",
+  "@productsNameRequired": {
+    "description": "Validation message when product name is empty."
+  },
+  "productsDeleteConfirmTitle": "Delete product?",
+  "@productsDeleteConfirmTitle": {
+    "description": "Title for the delete product confirmation dialog."
+  },
+  "productsDeleteConfirmMessage": "Remove \"{name}\" from your products? This cannot be undone.",
+  "@productsDeleteConfirmMessage": {
+    "description": "Message for the delete product confirmation dialog.",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "productsDetailMaterialsHeading": "Materials",
+  "@productsDetailMaterialsHeading": {
+    "description": "Section heading for preset materials on the detail page."
+  },
+  "productsDetailNoDescription": "No description",
+  "@productsDetailNoDescription": {
+    "description": "Placeholder when a preset has no description."
+  },
+  "productsDetailLoadFailure": "Could not load product details.",
+  "@productsDetailLoadFailure": {
+    "description": "Snack bar when loading a preset detail fails."
+  },
+  "productsDetailNotFound": "Product not found.",
+  "@productsDetailNotFound": {
+    "description": "Message when a preset no longer exists."
+  },
+  "productsAddMaterial": "Add",
+  "@productsAddMaterial": {
+    "description": "Tag button label to add a material to a preset."
+  },
+  "productsAddMaterialTitle": "Add material",
+  "@productsAddMaterialTitle": {
+    "description": "Title for the sheet listing materials that can be added."
+  },
+  "productsAddMaterialEmpty": "All materials are already in this preset.",
+  "@productsAddMaterialEmpty": {
+    "description": "Message when no materials remain to add to a preset."
+  },
+  "productsMaterialQuantityIncrease": "Increase quantity",
+  "@productsMaterialQuantityIncrease": {
+    "description": "Accessibility label for increasing material quantity."
+  },
+  "productsMaterialQuantityDecrease": "Decrease quantity",
+  "@productsMaterialQuantityDecrease": {
+    "description": "Accessibility label for decreasing material quantity."
+  },
+  "productsDetailBack": "Back",
+  "@productsDetailBack": {
+    "description": "Button label to leave the preset detail page."
+  },
+  "productsDetailCreateProduct": "Add to workbench",
+  "@productsDetailCreateProduct": {
+    "description": "Button label to create a workbench product from this preset."
+  },
+  "productsDetailCreateProductSuccess": "Product added to workbench.",
+  "@productsDetailCreateProductSuccess": {
+    "description": "Snack bar when a product was created from the preset."
+  },
+  "productsDetailCreateProductInsufficientStock": "Not enough materials in stock.",
+  "@productsDetailCreateProductInsufficientStock": {
+    "description": "Snack bar when creating a product fails due to insufficient stock."
+  },
+  "productsDetailEditImage": "Change image",
+  "@productsDetailEditImage": {
+    "description": "Tooltip for the button that picks a preset image."
+  },
+  "productsDetailActionFailure": "Could not save changes.",
+  "@productsDetailActionFailure": {
+    "description": "Snack bar when saving preset changes on the detail page fails."
+  },
+  "productsDetailImagePickFailure": "Could not open the photo library.",
+  "@productsDetailImagePickFailure": {
+    "description": "Snack bar when the preset image picker cannot be opened."
+  },
+  "workshopTitle": "Workshop",
+  "@workshopTitle": {
+    "description": "Screen title for the workshop tab."
+  },
+  "workshopPlaceholder": "Active builds will appear here.",
+  "@workshopPlaceholder": {
+    "description": "Placeholder text on the workshop tab."
+  },
+  "workshopEmptyTitle": "No builds yet",
+  "@workshopEmptyTitle": {
+    "description": "Title when the workshop list has no projects."
+  },
+  "workshopEmptySubtitle": "Add a product to the workbench to reserve materials and track a build.",
+  "@workshopEmptySubtitle": {
+    "description": "Subtitle when the workshop list has no projects."
+  },
+  "workshopLoadFailure": "Could not load workshop projects.",
+  "@workshopLoadFailure": {
+    "description": "Snack bar when loading workshop projects fails."
+  },
+  "workshopCustomerLabel": "Customer: {name}",
+  "@workshopCustomerLabel": {
+    "description": "Customer name shown on a workshop project card.",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "workshopStatusInProgress": "In progress",
+  "@workshopStatusInProgress": {
+    "description": "Status label for an active workbench build."
+  },
+  "workshopStatusFinished": "Finished",
+  "@workshopStatusFinished": {
+    "description": "Status label for a completed workbench build."
+  },
+  "workshopProductDetailTitle": "Product",
+  "@workshopProductDetailTitle": {
+    "description": "Fallback app bar title on the workbench product detail screen."
+  },
+  "workshopProductNameLabel": "Name",
+  "@workshopProductNameLabel": {
+    "description": "Label for the editable product name on the detail screen."
+  },
+  "workshopProductDescriptionLabel": "Description",
+  "@workshopProductDescriptionLabel": {
+    "description": "Label for the editable product description on the detail screen."
+  },
+  "workshopCustomerFieldLabel": "Customer",
+  "@workshopCustomerFieldLabel": {
+    "description": "Label for the editable customer field on the detail screen."
+  },
+  "workshopCustomerPlaceholder": "No customer",
+  "@workshopCustomerPlaceholder": {
+    "description": "Placeholder when a workbench product has no customer."
+  },
+  "workshopMaterialGlobalReserved": "{reserved} reserved · {onHand} on hand",
+  "@workshopMaterialGlobalReserved": {
+    "description": "Shows global reserved quantity versus on-hand stock for a material.",
+    "placeholders": {
+      "reserved": {
+        "type": "String"
+      },
+      "onHand": {
+        "type": "String"
+      }
+    }
+  },
+  "workshopMaterialShortage": "Not enough stock",
+  "@workshopMaterialShortage": {
+    "description": "Label when global reservations exceed on-hand stock for a material."
+  },
+  "workshopAddMaterialTitle": "Add material",
+  "@workshopAddMaterialTitle": {
+    "description": "Title of the bottom sheet to add a material to a workbench product."
+  },
+  "workshopAddMaterialEmpty": "All materials are already on this product.",
+  "@workshopAddMaterialEmpty": {
+    "description": "Empty state when every inventory material is already reserved on this product."
+  },
+  "workshopDetailLoadFailure": "Could not load product.",
+  "@workshopDetailLoadFailure": {
+    "description": "Snack bar when loading a workbench product detail fails."
+  },
+  "workshopDetailNotFound": "Product not found.",
+  "@workshopDetailNotFound": {
+    "description": "Snack bar when a workbench product no longer exists."
+  },
+  "workshopDetailActionFailure": "Could not save changes.",
+  "@workshopDetailActionFailure": {
+    "description": "Snack bar when saving workbench product detail changes fails."
+  },
+  "workshopInsufficientStock": "Not enough available stock for this material.",
+  "@workshopInsufficientStock": {
+    "description": "Snack bar when a reservation change exceeds available stock."
+  },
+  "workshopFinishProduct": "Finish product",
+  "@workshopFinishProduct": {
+    "description": "Button label to finish a workbench build and consume reserved materials."
+  },
+  "workshopFinishConfirmTitle": "Finish product?",
+  "@workshopFinishConfirmTitle": {
+    "description": "Title of the confirmation dialog before finishing a workbench build."
+  },
+  "workshopFinishConfirmMessage": "Reserved materials will be subtracted from inventory and this build will be marked as finished.",
+  "@workshopFinishConfirmMessage": {
+    "description": "Body of the confirmation dialog before finishing a workbench build."
+  },
+  "workshopFinishSuccess": "Product finished.",
+  "@workshopFinishSuccess": {
+    "description": "Snack bar shown after a workbench build is finished successfully."
+  },
+  "workshopFinishFailure": "Could not finish product.",
+  "@workshopFinishFailure": {
+    "description": "Snack bar when finishing a workbench build fails."
+  },
+  "workshopRemoveProduct": "Remove product",
+  "@workshopRemoveProduct": {
+    "description": "Button label to remove a workbench build and release reservations."
+  },
+  "workshopRemoveConfirmTitle": "Remove product?",
+  "@workshopRemoveConfirmTitle": {
+    "description": "Title of the confirmation dialog before removing a workbench build."
+  },
+  "workshopRemoveConfirmMessage": "Remove \"{name}\" from the workbench? Reserved materials will be released without subtracting from inventory.",
+  "@workshopRemoveConfirmMessage": {
+    "description": "Body of the confirmation dialog before removing a workbench build.",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "workshopOpenArchive": "Archive",
+  "@workshopOpenArchive": {
+    "description": "Button label to open the finished-products archive."
+  },
+  "archiveTitle": "Archive",
+  "@archiveTitle": {
+    "description": "Screen title for the finished-products archive."
+  },
+  "archiveStartDateLabel": "From",
+  "@archiveStartDateLabel": {
+    "description": "Label for the archive start date filter."
+  },
+  "archiveEndDateLabel": "To",
+  "@archiveEndDateLabel": {
+    "description": "Label for the archive end date filter."
+  },
+  "archiveFinishedOnLabel": "Finished on {date}",
+  "@archiveFinishedOnLabel": {
+    "description": "Shows when a product was finished in the archive list.",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "archiveEmptyTitle": "No finished products",
+  "@archiveEmptyTitle": {
+    "description": "Title when the archive list is empty for the selected range."
+  },
+  "archiveEmptySubtitle": "Try a different date range or finish a build in the workshop.",
+  "@archiveEmptySubtitle": {
+    "description": "Subtitle when the archive list is empty for the selected range."
+  },
+  "archiveLoadFailure": "Could not load archived products.",
+  "@archiveLoadFailure": {
+    "description": "Snack bar when loading archived products fails."
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "Screen title for the settings tab."
+  },
+  "settingsPlaceholder": "Theme and preferences will appear here.",
+  "@settingsPlaceholder": {
+    "description": "Placeholder text on the settings tab."
+  },
+  "settingsDeveloperSection": "Developer",
+  "@settingsDeveloperSection": {
+    "description": "Section heading for developer tools on the settings screen."
+  },
+  "settingsSeedDatabase": "Seed database",
+  "@settingsSeedDatabase": {
+    "description": "Button label to load dummy inventory data into the database."
+  },
+  "settingsSeedDatabaseSuccess": "Sample data loaded.",
+  "@settingsSeedDatabaseSuccess": {
+    "description": "Snack bar message after dummy data was seeded successfully."
+  },
+  "settingsSeedDatabaseFailure": "Could not seed database.",
+  "@settingsSeedDatabaseFailure": {
+    "description": "Snack bar message when dummy data seeding failed."
+  },
+  "settingsWipeDatabase": "Wipe database",
+  "@settingsWipeDatabase": {
+    "description": "Button label to wipe and recreate the local database."
+  },
+  "settingsWipeDatabaseSuccess": "Database wiped.",
+  "@settingsWipeDatabaseSuccess": {
+    "description": "Snack bar message after the database was wiped successfully."
+  },
+  "settingsWipeDatabaseFailure": "Could not wipe database.",
+  "@settingsWipeDatabaseFailure": {
+    "description": "Snack bar message when wiping the database failed."
+  },
+  "settingsAppearanceSection": "Appearance",
+  "@settingsAppearanceSection": {
+    "description": "Legacy section heading for theme settings."
+  },
+  "settingsThemeSection": "Theme",
+  "@settingsThemeSection": {
+    "description": "Section heading for theme settings inside the theme panel."
+  },
+  "settingsLanguageSection": "Language",
+  "@settingsLanguageSection": {
+    "description": "Section heading for language settings."
+  },
+  "settingsLanguageEnglish": "English",
+  "@settingsLanguageEnglish": {
+    "description": "Language picker option for English."
+  },
+  "settingsLanguageGerman": "German",
+  "@settingsLanguageGerman": {
+    "description": "Language picker option for German."
+  },
+  "settingsAboutSection": "About",
+  "@settingsAboutSection": {
+    "description": "Section heading for app information."
+  },
+  "settingsAboutVersion": "Version 1.0.0",
+  "@settingsAboutVersion": {
+    "description": "App version shown on the settings screen."
+  },
+  "settingsThemeCategoryLight": "Light",
+  "@settingsThemeCategoryLight": {
+    "description": "Badge label for light-category theme presets."
+  },
+  "settingsThemeCategoryDark": "Dark",
+  "@settingsThemeCategoryDark": {
+    "description": "Badge label for dark-category theme presets."
+  },
+  "settingsThemeCosmopolitan": "Cosmopolitan",
+  "@settingsThemeCosmopolitan": {
+    "description": "Display name for the Cosmopolitan theme preset."
+  },
+  "settingsThemePinaColada": "Piña Colada",
+  "@settingsThemePinaColada": {
+    "description": "Display name for the Piña Colada theme preset."
+  },
+  "settingsThemeWhiteRussian": "White Russian",
+  "@settingsThemeWhiteRussian": {
+    "description": "Display name for the White Russian theme preset."
+  },
+  "settingsThemeChartreuse": "Chartreuse",
+  "@settingsThemeChartreuse": {
+    "description": "Display name for the Chartreuse theme preset."
+  },
+  "settingsThemeBlueHawaii": "Blue Hawaii",
+  "@settingsThemeBlueHawaii": {
+    "description": "Display name for the Blue Hawaii theme preset."
+  },
+  "settingsThemeOldFashioned": "Old Fashioned",
+  "@settingsThemeOldFashioned": {
+    "description": "Display name for the Old Fashioned theme preset."
+  }
+}

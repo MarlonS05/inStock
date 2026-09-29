@@ -1,0 +1,7 @@
+name: lint_rules
+description: Layer import boundary rules for inStock architecture enforcement.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.12.0
